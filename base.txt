@@ -1,0 +1,10 @@
+hi		|chào ngắn gọn
+hello		|chào
+far		|xa
+face		|mặt
+book		|sách
+beat		|nhạc không lời
+apple		|táo
+about		|khoảng
+bảo		|đz nhé
+buy		|mua hàng
